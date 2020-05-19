@@ -3,6 +3,10 @@
 
 ---
 > 群名：磐石如丝-知行思学群，这里是【群听书文件】整理的合集。
+>
+> [【群内容】整理合集](https://github.com/geekpanshi/panshirusi)；
+>
+> [【群文件】整理合集](https://github.com/geekpanshi/panshirusi-share)。
 
 #### 加群方式
 > 加微信群二维码
