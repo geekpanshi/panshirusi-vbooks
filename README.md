@@ -13,6 +13,11 @@
 >
 >> <img src="/pics/README/001-磐石如丝微信二维码.png" width="180" height="180" align=center></img>
 
+
+#### [读书荐书之我的书单](https://github.com/geekpanshi/panshirusi-share/blob/master/%E8%AF%BB%E4%B9%A6%E8%8D%90%E4%B9%A6%E4%B9%8B%E6%88%91%E7%9A%84%E4%B9%A6%E5%8D%95.md)
+>
+> [读书荐书之我的书单](https://github.com/geekpanshi/panshirusi-share/blob/master/%E8%AF%BB%E4%B9%A6%E8%8D%90%E4%B9%A6%E4%B9%8B%E6%88%91%E7%9A%84%E4%B9%A6%E5%8D%95.md)
+
 #### 听书文件列表【待归类】
 ##### [听书-001-《如何学习》.mp3](/vedio_books/听书-001-《如何学习》.mp3)
 ##### [听书-002-《捕捉儿童敏感期》.mp3](/vedio_books/听书-002-《捕捉儿童敏感期》.mp3)
@@ -114,3 +119,4 @@
 ##### [听书-098-《钱从哪里来》.mp3](/vedio_books/听书-098-《钱从哪里来》.mp3)
 ##### [听书-099-《决定上限的，是你处理情绪的能力》.mp3](/vedio_books/听书-099-《决定上限的，是你处理情绪的能力》.mp3)
 ##### [听书-100-《好的焦虑》.mp3](/vedio_books/听书-100-《好的焦虑》.mp3)
+##### [听书-101-《增长的方法》.mp3](/vedio_books/听书-101-《增长的方法》.mp3)
