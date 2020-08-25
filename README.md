@@ -14,10 +14,14 @@
 
 ### 加群方式
 #### 加微信群二维码
+---
 > <img src="/pics/README/001-磐石如丝微信二维码.png" width="180" height="180" align=left></img>
+---
 
 #### 加 QQ 群二维码
+---
 > <img src="/pics/README/002-磐石如丝QQ二维码.png" width="180" height="180" align=left />
+---
 
 ### [读书荐书之我的书单](https://github.com/geekpanshi/panshirusi-share/blob/master/%E8%AF%BB%E4%B9%A6%E8%8D%90%E4%B9%A6%E4%B9%8B%E6%88%91%E7%9A%84%E4%B9%A6%E5%8D%95.md)
 >
