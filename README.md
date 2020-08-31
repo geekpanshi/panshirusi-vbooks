@@ -345,3 +345,5 @@
 >[听书-153-《跃迁》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-153-《跃迁》.mp3)
 >
 >[听书-154-《恶心：存在主义哲学》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-154-《恶心：存在主义哲学》.mp3)
+>
+>[听书-154-《恶心：存在主义哲学》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-155-《制造者与索取者》.mp3)
