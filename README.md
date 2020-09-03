@@ -349,3 +349,6 @@
 >[听书-155-《制造者与索取者》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-155-《制造者与索取者》.mp3)
 >
 >[听书-156-《孤独：回归自我》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-156-《孤独：回归自我》.mp3)
+>
+>[听书-157-《富人的逻辑》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-157-《富人的逻辑》.mp3)
+
