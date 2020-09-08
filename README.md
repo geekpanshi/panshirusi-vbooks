@@ -351,4 +351,6 @@
 >[听书-156-《孤独：回归自我》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-156-《孤独：回归自我》.mp3)
 >
 >[听书-157-《富人的逻辑》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-157-《富人的逻辑》.mp3)
+>
+>[听书-158-《高效 15 法则》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-158-《高效15法则》.mp3)
 
