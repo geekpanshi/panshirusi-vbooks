@@ -359,3 +359,11 @@
 >[听书-160-《反焦虑思维》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-160-《反焦虑思维》.mp3)
 >
 >[听书-161-《多向思考者》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-161-《多向思考者》.mp3)
+>
+>[听书-162-《清醒思考的艺术》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-162-《清醒思考的艺术》.mp3)
+>
+>[听书-163-《社会心理学》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-163-《社会心理学》.mp3)
+>
+>[听书-164-《精准表达》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-164-《精准表达》.mp3)
+>
+>[听书-165-《父母的觉醒》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-165-《父母的觉醒》.mp3)
