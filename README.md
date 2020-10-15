@@ -367,3 +367,26 @@
 >[听书-164-《精准表达》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-164-《精准表达》.mp3)
 >
 >[听书-165-《父母的觉醒》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-165-《父母的觉醒》.mp3)
+>
+>[听书-166-《如何高效学习》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-166-《如何高效学习》.mp3)
+>
+>[听书-167-《四大门》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-167-《四大门》.mp3)
+>
+>[听书-168-《学习之道》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-168-《学习之道》.mp3)
+>
+>[听书-169-《罪与罚》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-169-《罪与罚》.mp3)
+>
+>[听书-170-《成功、动机与目标》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-170-《成功、动机与目标》.mp3)
+>
+>[听书-171-《第五项修炼》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-171-《第五项修炼》.mp3)
+>
+>[听书-172-《99％的人一看就会的理财书》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-172-《99％的人一看就会的理财书》.mp3)
+>
+>[听书-173-《强力瞬间》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-173-《强力瞬间》.mp3)
+>
+>[听书-174-《荣格自传》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-174-《荣格自传》.mp3)
+>
+>[听书-175-《怪诞行为学》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-175-《怪诞行为学》.mp3)
+
+#### 176-200
+>
