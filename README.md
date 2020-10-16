@@ -1,12 +1,12 @@
-## 磐石如丝-知行思学群-听书文件汇总
-> 群名：磐石如丝-知行思学群，这里是【群听书文件】整理的合集。
+## 磐石道-知行思学群-听书文件汇总
+> 群名：磐石道-知行思学群，这里是【群听书文件】整理的合集。
 >
 > **此群、列表的所有听书 mp3，都在 QQ 群中备份**。
 
 ---
 
 #### 其他共享内容
-> 群名：磐石如丝-知行思学群，这里是【群听书文件】整理的合集。
+> 群名：磐石道-知行思学群，这里是【群听书文件】整理的合集。
 >
 > [【群内容】整理合集](https://github.com/geekpanshi/panshirusi)；
 >
@@ -15,12 +15,12 @@
 ### 加群方式
 #### 加微信群二维码
 >
-> <img src="https://raw.githubusercontent.com/geekpanshi/panshirusi-vbooks/master/pics/README/001-%E7%A3%90%E7%9F%B3%E5%A6%82%E4%B8%9D%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png" width="180" height="180" align=center></img>
+> <img src="https://raw.githubusercontent.com/geekpanshi/panshirusi/master/%E9%85%8D%E5%9B%BE/README/001-%E7%A3%90%E7%9F%B3%E9%81%93%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png" width="180" height="180" align=center></img>
 >
 
 #### 加 QQ 群二维码
 >
-> <img src="https://raw.githubusercontent.com/geekpanshi/panshirusi-vbooks/master/pics/README/002-%E7%A3%90%E7%9F%B3%E5%A6%82%E4%B8%9DQQ%E4%BA%8C%E7%BB%B4%E7%A0%81.png" width="180" height="180" align=center />
+> <img src="https://raw.githubusercontent.com/geekpanshi/panshirusi/master/%E9%85%8D%E5%9B%BE/README/003-%E7%A3%90%E7%9F%B3%E9%81%93QQ%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="180" height="180" align=center />
 >
 
 ### [读书荐书之我的书单](https://mp.weixin.qq.com/s/pdEG2t9PVJgZvMw2t8vvYg)
