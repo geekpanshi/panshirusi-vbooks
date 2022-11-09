@@ -390,3 +390,5 @@
 
 #### 176-200
 >[听书-176-《常识与通识》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-176-《常识与通识》.mp3)
+>
+>[听书-177-《中国人的性格》](https://github.com/geekpanshi/panshirusi-vbooks/raw/master/vedio_books/听书-177-《中国人的性格》.mp3)
